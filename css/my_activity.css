@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: rgb(249,249,249);
+}
+.head{
+	width: 375px;
+	height: 60px;
+	background: rgb(90,77,99);
+}
+.t1{
+	width: 20px;
+	margin: 15px;
+}
+.head span{
+	font-size: 18px;
+	color: white;
+	position: relative;
+	top: -20px;
+}
+
+.hea{
+	width: 345px;
+	height: 20px;
+	border-bottom: 1px solid #F1F1F1;
+	text-align: center;
+	padding: 15px;
+}
+.hea span{
+	padding:10px 25px;
+	color: gray;
+}
+.hea span:hover{
+	color: #000000;
+}
+.bod{
+	width: 375px;
+	
+}
+.bod img{
+	width: 100%;
+}
+/*下面的模块很精彩*/
+.part{
+	width: 375px;
+	margin-top: 10px;
+}
+.sp1{
+	height: 30px;
+	font-size: 15px;
+	margin: 15px;
+}
+hr{
+	width: 100%;
+	margin: 15px auto;
+}
+.p1{
+	width: 345px;
+	height: auto;
+	margin: 10px 15px;
+	background: white;
+	border-radius: 10px;
+}
+.p1 img{
+	width: 95%;
+	margin:0px 10px;
+}
+.sp2{
+	font-size: 17px;
+	margin: 10px;
+}
+.sp3{
+	font-size: 15px;
+	margin: 10px;
+}
+.sp4{
+	font-size: 14px;
+	margin: 10px;
+	color: gray;
+}

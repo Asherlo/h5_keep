@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	width: 375px;
+	height: 60px;
+	background: rgb(90,77,99);
+}
+.t1{
+	width: 20px;
+	margin: 15px;
+}
+.head span{
+	font-size: 18px;
+	color: white;
+	position: relative;
+	top: -15px;
+}
+/*第一部分*/
+.part1{
+	width: 340px;
+	height: 150px;
+	border:1px solid rgb(245,245,245);
+	margin: 10px auto;
+	position: relative;
+}
+.part1 span{
+	font-size: 18px;
+	font-weight: 700;
+	margin: 15px;
+	position: absolute;
+	top: 15px;
+}
+.part1 p{
+	font-size: 14px;
+	color: gray;
+	margin: 10px;
+	position: absolute;
+	top: 50px;
+}
+.part1 img{
+	width: 50px;
+	float: right;
+	margin-top: 40px;
+	margin-right: 20px;
+}
+.part1 input{
+	border: none;
+	width: 100px;
+	border-radius: 20px;
+	background: rgb(36,199,137);
+	color: white;
+	font-size: 13px;
+	padding: 8px 14px;
+	margin: 15px;
+	position: absolute;
+	top: 80px;
+}
+/*第二部分*/
+.part2{
+	width: 345px;
+	margin: 15px 15px 10px;
+}
+.part2 img{
+	width: 100%;
+}
+/*第三部分*/
+.part3{
+	width: 375px;
+}
+.part3 li{
+	width: 100%;
+	height: 70px;
+	font-size: 15px;
+	padding-left: 10px;
+}
+.part3 img{
+	float: right;
+	width: 30px;
+}

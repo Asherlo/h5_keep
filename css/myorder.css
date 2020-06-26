@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: rgb(249,249,249);
+}
+.head{
+	width: 375px;
+	height: 60px;
+	background: rgb(90,77,99);
+}
+.t1{
+	width: 25px;
+	margin: 15px;
+}
+.head span{
+	font-size: 20px;
+	color: white;
+	position: relative;
+	top: -20px;
+	left: 100px;
+}
+
+.hea{
+	width: 345px;
+	height: 20px;
+	border-bottom: 1px solid #F1F1F1;
+	text-align: center;
+	padding: 15px;
+}
+.hea span{
+	padding:13px;
+	color: gray;
+}
+.hea span:hover{
+	color: #000000;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  	display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown p{
+	color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content p:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropdown span{
+    background-color: #3e8e41;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.nn{
+	padding: 10px;
+	border-bottom: 1px solid #F1F1F1;
+}
+.hy{
+	font-size: 18px;
+	padding: 15px 8px;
+}
+.zf{
+	float: right;
+	font-size: 18px;
+	color: green;
+}
+.fot{
+	width: 375px;
+}
+.fot img{
+	width: 100%;
+}

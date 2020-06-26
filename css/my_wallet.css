@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: rgb(250,250,250);
+}
+.head{
+	width: 375px;
+	height: 60px;
+	background: rgb(90,77,99);
+}
+.t1{
+	width: 20px;
+	margin: 15px;
+}
+.head span{
+	font-size: 18px;
+	color: white;
+	position: relative;
+	top: -15px;
+}
+.part{
+	width: 375px;
+	height: 150px;
+	padding: 10px auto;
+	background: white;
+}
+.part img{
+	width: 50px;
+	border-radius: 50px;
+}
+.pa1{
+	width: 180px;
+	float: left;
+	text-align: center;
+	margin-top: 20px;
+}
+.pa2{
+	width: 180px;
+	float: right;
+	text-align: center;
+	margin-top: 20px;
+}
+.p1{
+	font-size: 19px;
+}
+.p2{
+	font-size: 15px;
+	color: gray;
+}
+.part2{
+	width: 375px;
+	height: 50px;
+	background: white;
+	margin-top: 10px;
+	padding: 15px 10px;
+}
+.part2 span{
+	font-size: 17px;
+}
+.part2 img{
+	width: 30px;
+	float: right;
+}

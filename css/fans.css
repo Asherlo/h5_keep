@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	width: 375px;
+	height: 60px;
+	background: rgb(90,77,99);
+}
+.t1{
+	width: 20px;
+	margin: 15px;
+}
+.head span{
+	font-size: 18px;
+	color: white;
+	position: relative;
+	top: -15px;
+}
+.t2{
+	width: 25px;
+	float: right;
+	margin-top: 15px;
+	margin-right: 10px;
+}
+.bo div{
+	position: relative;
+	width: 375px;
+	height: 80px;
+	border-bottom: 0px solid gray;
+}
+.bo div img{
+	width: 45px;
+	height: 45px;
+	margin: 15px 10px;	
+	border-radius: 50%;	
+}
+.bo div span{
+	font-size: 17px;
+	position: absolute;
+	left: 70px;
+	top: 30px;
+}
+.bo input#d{
+	font-size: 13px;
+	border:1px solid #32CD32;
+	border-radius: 20px;
+	color: #32CD32;
+	background: none;
+	position: absolute;
+	right: 30px;
+	margin: 20px auto;
+	padding: 5px 15px;
+}
+.bo input#b{
+	font-size: 13px;
+	border:1px solid #32CD32;
+	border-radius: 20px;
+	color: white;
+	background: #32CD32;
+	position: absolute;
+	right: 30px;
+	margin: 20px auto;
+	padding: 5px 15px;
+}
